@@ -7,7 +7,7 @@ const projects =
         {
             title: "AI Chatbot",
             description: 'AI chatbot that user can switch from using chatGPT, Mistral, deepseek, etc. Makes use of public API that allows user to choose model.',
-            image: './public/ai_chatbot_screenshot.jpg',
+            image: '/ai_chatbot_screenshot.jpg',
             tags: ["React", "JavaScript", "API", "CSS"],
             link: '#',
             github: "#",
@@ -16,7 +16,7 @@ const projects =
         {
             title: "Movie App/Website",
             description: 'Movie app/website that uses public API to collect movies and display new relases on homepage. User can also search for movies and favorite them. ',
-            image: './public/Movie_app_screenshot.jpg',
+            image: '/Movie_app_screenshot.jpg',
             tags: ["React", "JavaScript", "API", "CSS"],
             link: '#',
             github: "#",
