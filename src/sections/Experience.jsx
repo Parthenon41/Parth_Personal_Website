@@ -15,7 +15,7 @@ const experiences = [
     description:
       "IT desktop support for billing team including operating system installations, patch upgrades, network and firewall configuration and setups. Responsible for IT platform/system evaluations and recommendations for company’s modernization efforts into public cloud with emphasis on HIPPA guidelines. Point of contact for troubleshooting issues between EMR/EHR systems and billing software for data and connectivity issues/access.",
     technologies: ["Information Technology", "IAM", "Security Management"],
-    current: false,
+    current: true,
   },
   {
     period: "AUG 2023 - DEC 2023 ",
@@ -24,7 +24,7 @@ const experiences = [
     description:
       "Project Lead responsibilities with three-member team. Designed and developed SharePoint site for Esposure4all, used for onboarding employees and tracking students’ progress/data. Implemented security protocols for account and access management, designed security rules and profiles for different user types (instructor, students, admin, etc). Testing site functionality and vulnerability.",
     technologies: ["Microsoft Office", "Microsoft SharePoint", "Microsoft OneDrive"],
-    current: false,
+    current: true,
   },
   {
     period: "AUG 2024 – Till Date ",
@@ -33,7 +33,7 @@ const experiences = [
     description:
       "Tasked by small business to develop a small AI system with chat functionality that allows employees to upload PDF's of security logs. System files, sorts and vectorizes and compares logs to what the AI was trained on to provide details on security logs. ",
     technologies: ["Python", "Flask", "Langchain", "FAISS"],
-    current: false,
+    current: true,
   },
   {
     period: "AUG 2024 – Till Date ",
@@ -42,7 +42,7 @@ const experiences = [
     description:
       "Contractual work and consulting with small businesses to help grow their online website/applicaton by creating websites, applications, and systems. Making sure to create clean, efficient and user friendly programs in the process. ",
     technologies: ["Python", "Flask", "Langchain", "FAISS"],
-    current: false,
+    current: true,
   },
 ];
 
