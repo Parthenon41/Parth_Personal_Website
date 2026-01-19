@@ -9,7 +9,7 @@ const projects =
             description: 'AI chatbot that user can switch from using chatGPT, Mistral, deepseek, etc. Makes use of public API that allows user to choose model.',
             image: '/ai_chatbot_screenshot.jpg',
             tags: ["React", "JavaScript", "API", "CSS"],
-            link: 'parthaichatbot.netlify.app',
+            link: 'https://parthaichatbot.netlify.app',
             github: "#",
         },
 
