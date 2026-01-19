@@ -1,0 +1,11 @@
+[[redirects]]
+from = "/ai-chatbot/*"
+to = "https://YOUR-AI-CHATBOT-SITE.netlify.app/:splat"
+status = 200
+force = true
+
+[[redirects]]
+from = "/movie-app/*"
+to = "https://YOUR-MOVIE-APP-SITE.netlify.app/:splat"
+status = 200
+force = true
