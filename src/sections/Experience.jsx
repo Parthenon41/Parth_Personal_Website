@@ -41,7 +41,7 @@ const experiences = [
     company: "Small/Local Businesses",
     description:
       "Contractual work and consulting with small businesses to help grow their online website/applicaton by creating websites, applications, and systems. Making sure to create clean, efficient and user friendly programs in the process. ",
-    technologies: ["Python", "HTML", "AI/ML", "C++", "JavaScript", "OpenAI", ""],
+    technologies: ["Python", "HTML", "AI/ML", "C++", "JavaScript", "OpenAI"],
     current: true,
   },
 ];
