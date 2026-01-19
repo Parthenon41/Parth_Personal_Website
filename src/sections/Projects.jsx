@@ -18,7 +18,7 @@ const projects =
             description: 'Movie app/website that uses public API to collect movies and display new relases on homepage. User can also search for movies and favorite them. ',
             image: '/Movie_app_screenshot.jpg',
             tags: ["React", "JavaScript", "API", "CSS"],
-            link: '#',
+            link: 'https://parthmovieapp.netlify.app/',
             github: "#",
         }
 
