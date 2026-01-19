@@ -5,7 +5,7 @@ const experiences = [
     company: "SMARTS Club LLC",
     description:
       "Tasked with developing and teaching lessons/curriculum for high school students. Focusing on STEM areas such as math, robotics, fundamental coding/development using different languages. Also required administrative roles and responsibilities such as updating parents on their child's progression through parent meetings or email.",
-    technologies: ["JAVA", "C++", "HTML"],
+    technologies: ["JavaScript", "C++", "HTML"],
     current: true,
   },
   {
@@ -32,7 +32,7 @@ const experiences = [
     company: "Self-Employed",
     description:
       "Tasked by small business to develop a small AI system with chat functionality that allows employees to upload PDF's of security logs. System files, sorts and vectorizes and compares logs to what the AI was trained on to provide details on security logs. ",
-    technologies: ["Python", "Flask", "Langchain", "FAISS"],
+    technologies: ["Python", "Flask", "Langchain", "FAISS", "Ollama"],
     current: true,
   },
   {
@@ -41,7 +41,7 @@ const experiences = [
     company: "Small/Local Businesses",
     description:
       "Contractual work and consulting with small businesses to help grow their online website/applicaton by creating websites, applications, and systems. Making sure to create clean, efficient and user friendly programs in the process. ",
-    technologies: ["Python", "Flask", "Langchain", "FAISS"],
+    technologies: ["Python", "HTML", "AI/ML", "C++", "JavaScript", "OpenAI", ""],
     current: true,
   },
 ];
